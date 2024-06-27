@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps and Data Engineering .**
 
-- 💬 Ask me about **Cloud , Data Science .**
+- 💬 Ask me about **Cloud , DevOps .**
 
 - 📫 How to reach me **Siyaldhande02@gmail.com**
 
