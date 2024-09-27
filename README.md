@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siyal .</h1>
-<h3 align="center">Passionate form Cloud and DevOps from India .</h3>
+<h3 align="center">Passionate for Cloud and DevOps .</h3>
 
 <p align="left"> <a href="https://twitter.com/siyal02" target="blank"><img src="https://img.shields.io/twitter/follow/siyal02?logo=twitter&style=for-the-badge" alt="siyal02" /></a> </p>
 
